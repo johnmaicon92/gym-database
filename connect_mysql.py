@@ -3,7 +3,7 @@ from mysql.connector import Error
 def connect_database():
     db_name = "gym_db"
     user = "root"
-    password = "1Johnjohn"
+    password = "password"
     host = "localhost"
 
     try:
